@@ -45,8 +45,8 @@ Jika ingin berkontribusi, silakan buat pull request!
 
 ## 📫 Kontak
 
-- GitHub: [Your GitHub]
-- Email: [Your Email]
+- GitHub: [https://github.com/caidenrev]
+- Email: [caidenrev@gmail.com]
 
 ---
 Happy Coding! 😊
